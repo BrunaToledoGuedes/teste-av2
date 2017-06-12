@@ -1,5 +1,5 @@
-Aluno: bbbbb(Coloque aqui o seu nome e matricula)
-Trabalho de Laboratorio de Sistemas Operacionais
+Aluno:bruna 
+trabalho de Laboratorio de Sistemas Operacionais
 Professor: Alex Salgado
 1o. Semestre de 2017   Turno: ????
 --------------------------------------------------
